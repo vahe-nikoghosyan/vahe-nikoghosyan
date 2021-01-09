@@ -1,4 +1,4 @@
-![alt README header](https://raw.githubusercontent.com/vahe-nikoghosyan/vahe-nikoghosyan/main/pexels-pixabay-35888.png)
+![alt README header](https://raw.githubusercontent.com/vahe-nikoghosyan/vahe-nikoghosyan/main/pexels-pixabay-35888.jpg)
 ### Hi there 👋
 
 ### 👨🏻‍💻 &nbsp;About Me
