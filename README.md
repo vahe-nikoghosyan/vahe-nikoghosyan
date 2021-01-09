@@ -47,6 +47,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vahe-nikoghosyan&show_icons=true&theme=synthwave" />
 </a>
-<a href="https://github.com/">
+<a href="https://github.com/vahe-nikoghosyan/Node-API">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vahe-nikoghosyan&layout=compact&theme=dark" />
 </a>
