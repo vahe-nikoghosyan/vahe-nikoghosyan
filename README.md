@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-### 👨🏻‍💻 &nbsp;About Me
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/)
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white&link=https://facebook.com/)](https://facebook.com)
+[![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://nikoghosyan.me)](https://nikoghosyan.me)
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/vahe-nikoghosyan) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vahenikoghosyan.97@gmail.com)](mailto:vahenikoghosyan.97@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vahe_c)](https://twitter.com/vahe_c) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/vahenikoghosyan_/)](https://instagram.com/vahenikoghosyan_) 
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/vahenikoghosyan.me)](https://facebook.com/vahenikoghosyan.me)
 
 <!--
 **vahe-nikoghosyan/vahe-nikoghosyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
