@@ -1,4 +1,3 @@
-![alt README header](https://raw.githubusercontent.com/vahe-nikoghosyan/vahe-nikoghosyan/main/pexels-pixabay-35888.jpg)
 ### Hi there 👋
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -32,7 +31,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
 
 <a href="https://github.com/vahe-nikoghosyan/Node-API">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vahe-nikoghosyan&repo=Node-API&theme=vision-friendly-dark" />
@@ -42,12 +40,10 @@ Here are some ideas to get you started:
 </a>
 
 
-<br></br>
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/), [Facebook](https://www.facebook.com/)
 
-<a href="https://github.com/">
+<a href="https://github.com/vahe-nikoghosyan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vahe-nikoghosyan&show_icons=true&theme=synthwave" />
 </a>
-<a href="https://github.com/vahe-nikoghosyan/Node-API">
+<a href="https://github.com/vahe-nikoghosyan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vahe-nikoghosyan&layout=compact&theme=dark" />
 </a>
