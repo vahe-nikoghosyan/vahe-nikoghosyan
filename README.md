@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 </p>
 
 ## 🗂️ Highlight Projects
-
+<div align="center">
 <a href="https://github.com/vahe-nikoghosyan/Node-API">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vahe-nikoghosyan&repo=Node-API&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Node-API" />
 </a>
@@ -62,3 +62,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/vahe-nikoghosyan/Node-API">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vahe-nikoghosyan&repo=Node-API&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Node-API" />
 </a>
+</div>
