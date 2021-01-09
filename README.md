@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### 👨🏻‍💻 &nbsp;About Me
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white&link=https://facebook.com/)](https://facebook.com)
+
 <!--
 **vahe-nikoghosyan/vahe-nikoghosyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -42,6 +47,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vahe-nikoghosyan&show_icons=true&theme=synthwave" />
 </a>
-<a href="https://github.com/KALIMI">
+<a href="https://github.com/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vahe-nikoghosyan&layout=compact&theme=dark" />
 </a>
