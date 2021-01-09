@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<div align="center">
-  <h4> 
+<div >
+  <h4 align="center"> 
     🏃 Happy Coding 🏃 
   </h4>
 </div>
