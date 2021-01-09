@@ -1,5 +1,10 @@
-### Hi there 👋
+<div align="center">
+  <h2> 
+    Hi, there! I am Vahe <img src="https://github.com/vahe-nikoghosyan/vahe-nikoghosyan/blob/main/hi.gif" width="30px">
+  </h2>
+</div>
 
+### 👨🏻‍💻 &nbsp;About Me
 [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://nikoghosyan.me)](https://nikoghosyan.me)
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/vahe-nikoghosyan) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vahenikoghosyan.97@gmail.com)](mailto:vahenikoghosyan.97@gmail.com)
@@ -34,18 +39,28 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
+
+
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<div align="center">
+  <h4> 
+    🏃 Happy Coding 🏃 
+  </h4>
+</div>
+<p align="center">
+  <a href="https://github.com/vahe-nikoghosyan">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vahe-nikoghosyan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vahe-nikoghosyan&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+
 <a href="https://github.com/vahe-nikoghosyan/Node-API">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vahe-nikoghosyan&repo=Node-API&theme=vision-friendly-dark" />
 </a>
 <a href="https://github.com/vahe-nikoghosyan/Node-API">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vahe-nikoghosyan&repo=Node-API&theme=vision-friendly-dark" />
-</a>
-
-
-
-<a href="https://github.com/vahe-nikoghosyan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vahe-nikoghosyan&show_icons=true&theme=synthwave" />
-</a>
-<a href="https://github.com/vahe-nikoghosyan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vahe-nikoghosyan&layout=compact&theme=dark" />
 </a>
